@@ -1,4 +1,4 @@
 #funktionen for solar elevation 
 def solar_elevation_angle(theta):
-
-    return 1
+    alpha = 90 -theta
+    return alpha #bruger formlen til at udregne alpha
