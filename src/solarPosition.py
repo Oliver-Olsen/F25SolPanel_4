@@ -28,3 +28,5 @@ print(idx1 == idx2)
 print(f[idx1 == idx2])
 print(t[idx1 == idx2])
 
+#fioerhgiuehniur
+
