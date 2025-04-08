@@ -23,4 +23,4 @@ def find_nul(t,f):
     return result
 
     
-find_nul(t,f)
+print(find_nul(t,f))
